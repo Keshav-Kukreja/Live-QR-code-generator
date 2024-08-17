@@ -10,6 +10,12 @@ To run it create a virtual environment using
 python -m venv env
 ```
 
+activate virtual environment
+
+```
+env\scripts\activate.ps1
+```
+
 install dependencies
 
 ```
