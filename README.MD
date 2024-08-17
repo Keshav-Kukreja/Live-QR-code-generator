@@ -2,6 +2,25 @@
 
 it uses "segno" python library to generate QR codes
 
-**Note: Run it in a virtual environment**
+Just tweak the code to generate QR code.
 
-Just tweak the code to generate QR whcih satisfy your needs.
+To run it create a virtual environment using
+
+```
+python -m venv env
+```
+
+install dependencies
+
+```
+pip install -r requirements.txt
+```
+
+after that run
+
+```
+python main.py
+```
+
+
+
